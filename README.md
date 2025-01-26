@@ -1,5 +1,4 @@
-This is an extension for the official [Godot 2.5D Game Demo]
-(https://godotengine.org/asset-library/asset/2783)
+This is an extension for the official [Godot 2.5D Game Demo](https://godotengine.org/asset-library/asset/2783)
 
 The goal is to build upon the demo as a means to familiarize with Godot
 
