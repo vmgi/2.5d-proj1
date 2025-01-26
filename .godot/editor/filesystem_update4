@@ -1,1 +1,5 @@
 res://assets/demo_scene.tscn
+res://assets/demo_scene.gd
+res://pause_menu.tscn
+res://pause_menu.gd
+res://pause_menu.gdshader
