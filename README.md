@@ -1,3 +1,10 @@
+This is an extension for the official [Godot 2.5D Game Demo]
+(https://godotengine.org/asset-library/asset/2783)
+
+The goal is to build upon the demo as a means to familiarize with Godot
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 2.5D Demo Project with GDScript
 
 This demo project shows a way to create a 2.5D game
